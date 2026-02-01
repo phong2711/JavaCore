@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java02_Operator" isTestSource="false" packagePrefix="phuongtrinhbac.java" />
+      <sourceFolder url="file://$MODULE_DIR$/Java03_ControlFlow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java05_Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java07_Exception" isTestSource="false" packagePrefix="exception" />
+      <sourceFolder url="file://$MODULE_DIR$/Java08_JDBC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java09_DataStream" isTestSource="false" packagePrefix="kytu" />
+      <sourceFolder url="file://$MODULE_DIR$/Java10_FunctionalProgramming" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

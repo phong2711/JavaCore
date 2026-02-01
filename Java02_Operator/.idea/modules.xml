@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java01_BuildingBlocks.iml" filepath="$PROJECT_DIR$/Java01_BuildingBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java02_Operator.iml" filepath="$PROJECT_DIR$/Java02_Operator.iml" />
     </modules>
   </component>
 </project>

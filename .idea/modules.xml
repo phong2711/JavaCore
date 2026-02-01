@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java01_BuildingBlocks/Java01_BuildingBlocks.iml" filepath="$PROJECT_DIR$/Java01_BuildingBlocks/Java01_BuildingBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java03_ControlFlow/Java03_ControlFlow.iml" filepath="$PROJECT_DIR$/Java03_ControlFlow/Java03_ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java04_Arrays/Java04_Arrays.iml" filepath="$PROJECT_DIR$/Java04_Arrays/Java04_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java05_Class/Java05_Class.iml" filepath="$PROJECT_DIR$/Java05_Class/Java05_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java08_JDBC/Java08_JDBC.iml" filepath="$PROJECT_DIR$/Java08_JDBC/Java08_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore.iml" filepath="$PROJECT_DIR$/JavaCore.iml" />
+    </modules>
+  </component>
+</project>
