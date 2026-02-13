@@ -31,6 +31,5 @@ public class TreeMapDemo {
         for(Map.Entry<Integer, String> entry : students.entrySet()) {
             System.out.println(entry.getKey() + " - " + entry.getValue());
         }
-
     }
 }

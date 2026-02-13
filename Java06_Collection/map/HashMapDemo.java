@@ -52,7 +52,6 @@ public class HashMapDemo {
             System.out.println("Map khong chua key = 300");
         }
 
-
         if(students.isEmpty()) {
             System.out.println("Map rong");
         } else {
